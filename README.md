@@ -40,4 +40,4 @@ This is a simple advice generator app
 
 - Github - [ivandro-neto](https://github.com/ivandro-neto)
 - Frontend Mentor - [@ivandro-neto](https://www.frontendmentor.io/profile/ivandro-neto)
-- Twitter - [@IvandroNeto6121](https://twitter.com/IvandroNeto6121)
+- Twitter - [@IvandroNeto6121](https://twitter.com/IvandroNeto6121) 
