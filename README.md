@@ -22,12 +22,12 @@ This is a simple advice generator app
 
 ### Screenshot
 
-![](images/screenshot.png)
+![](./images/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [solution URL](https://github.com/ivandro-neto/advice-generator-app-main.git)
+- [live site URL](https://ivandro-neto.github.io/advice-generator-app-main/)
 
 ### Built with
 
@@ -38,6 +38,6 @@ This is a simple advice generator app
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [ivandro-neto](https://github.com/ivandro-neto)
+- Frontend Mentor - [@ivandro-neto](https://www.frontendmentor.io/profile/ivandro-neto)
+- Twitter - [@IvandroNeto6121](https://twitter.com/IvandroNeto6121)
