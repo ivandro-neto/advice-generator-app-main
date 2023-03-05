@@ -36,7 +36,7 @@
     justify-content: center;
     align-items: center;
     padding: 50px 30px;
-    gap: 40px;
+    gap: 30px;
     flex-direction: column;
     background-color: var(--Dark-Grayish-Blue);
     color: var(--Neon-Green);
@@ -46,6 +46,7 @@
 .advice-block p:first-child{
     text-transform: uppercase;
     letter-spacing: 5px;
+    font-size: 12px;
 }
 
 #quotes{
