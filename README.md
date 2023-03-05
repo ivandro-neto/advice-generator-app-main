@@ -22,7 +22,7 @@ This is a simple advice generator app
 
 ### Screenshot
 
-![](/images/screenshot.png)
+![](./images/Screenshot.png)
 
 ### Links
 
