@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <link rel="stylesheet" href="css/style.css">
+  <title>Advice generator app</title>
+  <script src="js/main.js"></script>
+  
+</head>
+<body>
+  
+  <main class="container">
+    <div class="advice-block">
+      <p>Advice # <span id="advice_id"></span></p>
+      <p id="quotes"></p>
+      <img id="divider" src="images/pattern-divider-desktop.svg" alt="" srcset="">
+      <a onclick="generateQuotes()"><img src="images/icon-dice.svg" alt="" srcset=""></a>
+    </div>
+  </main>
+  
+  <script>
+    
+    if (window.innerWidth < 400) {
+      divider.src = '../images/pattern-divider-mobile.svg'
+    }
+  </script>
+  
+
+</body>
+</html>
